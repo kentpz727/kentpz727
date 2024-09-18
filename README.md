@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello world.
+
+Just another Computer Science student. Learning the ropes of Github and programming.
 
 <!--
 **kentpz727/kentpz727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
